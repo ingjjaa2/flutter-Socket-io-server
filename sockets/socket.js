@@ -10,7 +10,7 @@ bands.addBand( new Band( 'Breaking Benjamin' ) );
 bands.addBand( new Band( 'Bon Jovi' ) );
 bands.addBand( new Band( 'Héroes del Silencio' ) );
 bands.addBand( new Band( 'Metallica' ) );
-/////////////
+/////////////////
 
 
 //mensajes
